@@ -1,0 +1,23 @@
+NAME;EMAIL;PASSWORD;TYPE;ADDRES
+Ana Gomez;ana@example.com;password123;ADMIN;Calle Luna 123
+Carlos Ruiz;carlos.ruiz@example.com;car123host;CLIENT;Av. Siempre Viva 101
+Maria Lopez;maria.lopez@example.com;maria456guest;CLIENT;Calle del Rio 34
+Sofia Mendez;sofia.m@example.com;sof789secure;ADMIN;Camino del Sol 17
+Diego Torres;diego.t@example.com;torres2024;CLIENT;Av. del Lago 22
+Lucia Fernandez;lucia.f@example.com;luciapass1;ADMIN;Plaza Verde 67
+Juan Martinez;juan.martinez@example.com;juan!2025;CLIENT;Pje. de las Rosas 8
+Valentina Rios;valen.r@example.com;valeVal01;CLIENT;Callejon Azul 44
+Andres Castro;andres.c@example.com;castrodev9;ADMIN;Pasaje del Bosque 90
+Camila Herrera;camila.h@example.com;camH1234;CLIENT;Ruta del Este 12
+Mateo Salazar;mateo.s@example.com;msalazar;ADMIN;Bulevar Central 300
+Isabella Vega;isavega@example.com;isa456secure;CLIENT;Colina Alta 78
+Tomas Morales;tomas.m@example.com;tomasmor1;ADMIN;Av. Florencia 19
+Emilia Guzman;emilia.g@example.com;emg2025pass;CLIENT;Barrio Jardin 15
+Pedro Diaz;pedro.d@example.com;pedroDpass;CLIENT;Calle Abedules 3
+Renata Navarro;renata.n@example.com;rennavarro;ADMIN;Villa Serena 77
+Esteban Reyes;esteban.r@example.com;estebanR12;CLIENT;Monte Verde 45
+Joaquin Leon;joaquin.l@example.com;leonjoaquin;ADMIN;Vereda Norte 5
+Martina Ortega;martina.o@example.com;martipass8;CLIENT;Sendero Claro 82
+Felipe Ramos;felipe.r@example.com;felram321;CLIENT;Camino Viejo 61
+Antonia Castro;antonia.c@example.com;antonia123;ADMIN;Altos del Valle 9
+Gabriel Paredes;gabriel.p@example.com;gpare123;CLIENT;Av. Montana 25

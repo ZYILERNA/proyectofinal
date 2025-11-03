@@ -1,0 +1,21 @@
+NAME;DESCRIPTION;LOCATION;CAPACITY;BEDROOMS;BEDS;BATHS;PRICE_PER_NIGHT;AVAILABILITY;TYPE
+Casa en la costa;Hermosa casa en la costa con gran iluminacion;Barcelona;3;2;3;1;100.00;True;APARTMENTS
+Apartamento urbano;Lujoso apartamento en el centro de la ciudad;Madrid;4;2;2;1;120.00;True;APARTMENTS
+Vivienda rural;Casa en medio del campo con vista panoramica;Segovia;6;3;4;2;80.00;False;COUNTRYSIDE
+Loft moderno;Loft con decoracion minimalista en el centro;Valencia;2;1;1;1;90.00;True;TINYHOMES
+Apartamento en la playa;Hermoso apartamento frente al mar;Alicante;4;2;3;1;110.00;True;APARTMENTS
+Casa de montana;Acogedora casa en los Pirineos;Huesca;7;4;5;2;150.00;True;CABIN
+Apartamento familiar;Espacioso apartamento para toda la familia;Granada;6;3;4;2;95.00;True;APARTMENTS
+Cabana en el bosque;Cabana aislada en el bosque;La Rioja;3;1;2;1;70.00;False;CABIN
+Estudio centrico;Pequeno estudio en el centro de la ciudad;Sevilla;1;1;1;1;60.00;True;TINYHOMES
+Casa de campo;Gran casa de campo con amplio jardin;Toledo;8;4;5;2;130.00;True;COUNTRYSIDE
+Piso de lujo;Piso de lujo con vistas al mar;Malaga;5;3;3;2;200.00;True;APARTMENTS
+Apartamento turistico;Acogedor apartamento en el barrio antiguo;Bilbao;2;1;2;1;75.00;True;TINYHOMES
+Casa con piscina;Casa con piscina privada y jardin;Murcia;10;5;6;3;180.00;True;COUNTRYSIDE
+Casa en la sierra;Casa situada en la sierra con vistas a la montaña;Cordoba;4;2;3;1;110.00;True;COUNTRYSIDE
+Apartamento junto al mar;Apartamento con vistas al océano;Santander;3;2;2;1;105.00;False;APARTMENTS
+Chalet de lujo;Chalet con acabados de lujo y vistas al mar;Tenerife;6;4;5;2;250.00;True;APARTMENTS
+Casa rustica;Casa rustica con chimenea y jardin;Palencia;5;3;4;2;90.00;TRUE;COUNTRYSIDE
+Atico en la ciudad;Atico con terraza panoramica en la ciudad;Madrid;3;2;2;1;140.00;True;APARTMENTS
+Casa moderna;Casa moderna y luminosa con jardin privado;Barcelona;4;2;3;2;130.00;True;APARTMENTS
+Apartamento de diseno;Apartamento de diseño minimalista en el centro;Valencia;2;1;1;1;100.00;True;APARTMENTS
